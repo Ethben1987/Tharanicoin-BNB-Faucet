@@ -7,6 +7,6 @@ https://tharanicoinfaucet.site/
 
 We are working on Tharanicoin Liquidity Fund collection and will enable the faucet once that is completed.
 
-The main purpose of the faucet is to gain BNB which can le later used to swap for Tharanicoin in Pancakeswap and Pawswap.
+The main purpose of the faucet is to gain BNB which can be later used to swap for Tharanicoin in Pancakeswap and Pawswap.
 
 Please do not abuse the faucet give everyone a chance.
